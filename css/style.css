@@ -207,4 +207,7 @@ footer{
 .f_wrapper ul li a:hover i{
 	color:#000;
 }
+.f_wrapper ul li:nth-child(1) a {
+	margin-left: 0;
+}
 /*footer end*/
